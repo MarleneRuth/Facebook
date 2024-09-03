@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+}
+
+.logo {
+  font-size: 35px;
+  color: #1877f2;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+form input {
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #dddfe2;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+form button {
+
+  background-color: #1877f2;
+  border: none;
+  border-radius: 25px;
+  color: #fff;
+  font-size: 17px;
+
+}
